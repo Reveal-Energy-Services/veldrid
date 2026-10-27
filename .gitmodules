@@ -1,4 +1,4 @@
 [submodule "modules/veldrid-spirv"]
 	path = modules/veldrid-spirv
-	url = https://github.com/seanspicer/veldrid-spirv
-	branch = tech-pizza
+	url = https://github.com/Reveal-Energy-Services/veldrid-spirv
+	branch = main
